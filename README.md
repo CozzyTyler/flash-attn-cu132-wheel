@@ -6,7 +6,7 @@ Prebuilt FlashAttention wheel for modern NVIDIA GPUs (Blackwell / Ada / Hopper).
 
 ## 🚀 Download
 
-👉 pip install --no-deps https://github.com/CozzyTyler/flash-attn-cu132-wheel/releases/download/v2.8.4-cu132/flash_attn-2.8.4+cu132.torch2.12.triton3.7-cp312-linux_x86_64.whl
+👉 pip install --no-deps https://github.com/CozzyTyler/flash-attn-cu132-wheel/releases/download/v2.8.4-cu132/flash_attn-2.8.4+cu132-cp312-cp312-linux_x86_64.whl
 
 ---
 
